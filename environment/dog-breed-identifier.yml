@@ -1,0 +1,20 @@
+name: dog-breed-identifier
+channels:
+- defaults
+- conda-forge
+dependencies:
+- jupyter
+- pip
+- pytest
+- python=3.6
+- pyyaml
+- opencv=3.4.2
+- matplotlib
+- numpy=1.21
+- scipy=1.7
+- colour
+- imageio
+- setuptools
+- tensorflow
+- h5py
+- keras=2.11
