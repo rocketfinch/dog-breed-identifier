@@ -1,4 +1,4 @@
-name: dog-breed-identifier
+name: dog-breed-identifier-1
 channels:
 - defaults
 - conda-forge
@@ -18,3 +18,7 @@ dependencies:
 - tensorflow
 - h5py
 - keras
+- pandas
+- tqdm
+- scikit-image
+- scikit-learn
