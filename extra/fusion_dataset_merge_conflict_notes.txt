@@ -1,0 +1,31 @@
+CHANGES TO DATASETS IN FUSION DATASET:
+(s) airedale into (c) airedale_terrier
+(s) basset into (c) basset_hound
+(s) black-and-tan-coonhound into (c) black_and_tan_coonhoud
+(s) bluetick into (c) bluetick_coonhound
+(s) boston_bull into (c) boston_terrier
+(c) brittany into (s) brittany_spaniel
+(s) bull_mastiff into (c) bullmastiff
+(s) cairn into (c) cairn_terrier
+(s) cardigan into (c) cardigan_welsh_corgi
+(s) chow into (c) chow_chow
+(s) clumber into (c) clumber_spaniel
+(s) dandie_dinmont into (c) dandie_dinmont_terrier
+(s) doberman into (c) doberman_pinscher
+(s) english_springer into (c) english_springer_spaniel
+(s) entlebucher into (c) entlebucher_mountain_dog
+(s) eskimo_dog into (c) american_eskimo_dog
+(c) german_shepherd_dog into (s) german_shepherd
+(s) german_short-haired_pointer into (c) german_shorthaired_pointer
+(s) leonberg into (c) leonberger
+(s) lhasa into (c) lhasa_apso
+(s) malinois into (c) belgian_malinois
+(s) maltese_dog into (c) maltese
+(s) malamute into (c) alaskan_malamute
+(s) pekinese into (c) pekingese
+(s) pembroke into (c) pembroke_welsh_corgi
+(s) standard-poodle into (c) poodle
+RENAMED standard-schnauzer (s) into schnauzer
+
+(s) = Stanford Dogs datset
+(c) = Columbia Dogs dataset
